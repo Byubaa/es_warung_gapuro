@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "567736086479",
+    "project_id": "esteh-31e1c",
+    "storage_bucket": "esteh-31e1c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:567736086479:android:2c64a94cf9cddfa0d36cba",
+        "android_client_info": {
+          "package_name": "com.example.es_warung_gapuro"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRaX5JFKOdQ-zA4BXFCbFTCarl8zHgeBA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
